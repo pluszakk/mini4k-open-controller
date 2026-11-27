@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Any accessory that reports DJI as its manufacturer. The model name of the RC-N1C
+         is not known yet; the app logs it so we can narrow this filter later. -->
+    <usb-accessory manufacturer="DJI" />
+</resources>
